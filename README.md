@@ -6,7 +6,7 @@
 </p>
 
 <p align="left"> 
-  <a href="https://twitter.com/raufir_zaman" target="blank">
+  <a href="https://github.com/MueidShahriar" target="blank">
     <img src="https://img.shields.io/twitter/follow/raufir_zaman?logo=twitter&style=for-the-badge" alt="raufir_zaman" />
   </a>
 </p>
