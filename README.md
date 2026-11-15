@@ -1,126 +1,80 @@
 
 <div align="center">
 
-# MD. MUEID SHAHRIAR
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Md.%20Mueid%20Shahriar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20CSE%20Student&descSize=17&descAlignY=55&animation=fadeIn" width="100%" />
 
-### Computer Science & Engineering Student | Frontend Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Developer;Building+Responsive+Web+Applications;Exploring+Software+Engineering;Turning+Ideas+Into+Digital+Solutions" />
 
-Building responsive web applications and practical digital solutions.
+<br/>
 
-<p>
-  <a href="https://komarev.com/ghpvc/?username=MueidShahriar">
-    <img src="https://komarev.com/ghpvc/?username=MueidShahriar&label=PROFILE+VIEWS&color=2563eb&style=flat-square" alt="Profile Views" />
-  </a>
-</p>
+<a href="https://github.com/MueidShahriar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mueid16"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mdmueidshahriar16@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<p>
-  <a href="https://github.com/MueidShahriar">GitHub</a> •
-  <a href="https://www.linkedin.com/in/mueid16">LinkedIn</a> •
-  <a href="mailto:mdmueidshahriar16@gmail.com">Email</a>
-</p>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MueidShahriar&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge" />
 
 </div>
 
 ---
 
-## About Me
-
-Hello! I'm **Md. Mueid Shahriar**, a Computer Science & Engineering student from Bangladesh with an interest in frontend development, software engineering, and UI/UX design.
-
-I enjoy turning ideas into functional applications, developing user-friendly interfaces, and solving real-world problems through technology.
-
-- Currently working on **Smart Hall Management System**
-- Developing responsive and interactive web applications.
-- Exploring modern frontend technologies and Firebase.
-- Interested in software development, problem-solving, and UI design.
-- Experienced with academic and practical software projects.
-
-**Contact:** mdmueidshahriar16@gmail.com
-
----
-
-## Featured Projects
-
-### 01. BAUET Blood Donation Community
-
-A community-focused blood donation platform designed to connect donors with people in need.
-
-**Key Features**
-- Blood donor registration and discovery.
-- Real-time donor management.
-- Administrative dashboard and analytics.
-- Bilingual interface (English and Bangla).
-- AI-assisted support and PWA functionality.
-
-**Technologies:** HTML, Tailwind CSS, JavaScript, Firebase, Node.js, Express.js, Chart.js.
-
-[Live Demo](https://blood-donation-community.vercel.app/) · [Repository](https://github.com/MueidShahriar/BAUET-BDC)
-
-### 02. Smart Hall Management System
-
-A web-based platform designed to simplify university hall administration and student services.
-
-**Key Features**
-- Separate student and admin dashboards.
-- Attendance management.
-- Room allocation and seat tracking.
-- Complaint management.
-- Meal management and guest room booking.
-- Notices and document distribution.
-
-**Technologies:** HTML, CSS, JavaScript, Firebase, Bootstrap.
-
-[Live Demo](https://smart-hall-ms.vercel.app/) · [Repository](https://github.com/MueidShahriar/Smart-Hall-Management-System)
-
-### 03. Hall Attendance Tracker
-
-A real-time Progressive Web Application for managing student attendance across university hall floors and rooms.
-
-**Key Features**
-- Real-time attendance tracking.
-- Authentication and role-based administration.
-- Location-based attendance verification.
-- Responsive interface.
-- Installable PWA functionality.
-
-**Technologies:** HTML, CSS, JavaScript, Firebase, PWA.
-
-[Repository](https://github.com/MueidShahriar/Hall-Attendance-Tracker)
-
-### 04. Digital Image Processing Toolkit
-
-A desktop application for performing fundamental digital image processing operations.
-
-**Key Features**
-- Image enhancement and filtering.
-- Edge detection and sharpening.
-- Histogram visualization.
-- Gamma and logarithmic transformations.
-- Image resizing and thresholding.
-
-**Technologies:** Python, OpenCV, NumPy, Pillow, Matplotlib.
-
-[Repository](https://github.com/MueidShahriar/Digital-Image-Processing-Toolkit)
-
----
-
-## Languages & Technologies
+<h2 align="center">ABOUT ME</h2>
 
 <div align="center">
 
-### Programming Languages
+I'm **Md. Mueid Shahriar**, a Computer Science & Engineering student from Bangladesh passionate about frontend development and software engineering.
+
+I enjoy building responsive web applications, designing intuitive interfaces, and developing practical solutions to real-world problems.
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Currently Focused On**
+
+- Frontend Development
+- Responsive Web Design
+- JavaScript & React
+- Firebase Integration
+- Software Engineering
+
+</td>
+<td width="50%" valign="top">
+
+**Areas of Interest**
+
+- Web Application Development
+- UI/UX Design
+- Problem Solving
+- Database Management
+- Software Development
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">TECHNOLOGIES & TOOLS</h2>
+
+<div align="center">
+
+**Programming Languages**
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 
-### Frontend Development
+**Frontend Development**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" />
 
-### Backend & Database
+**Backend & Database**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql" />
 
-### Tools & Platforms
+**Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,android,arduino,matlab" />
 
@@ -128,40 +82,154 @@ A desktop application for performing fundamental digital image processing operat
 
 ---
 
-## Other Projects
+<h2 align="center">FEATURED PROJECTS</h2>
 
-| Project | Description |
-|---|---|
-| MyPortfolio | Personal developer portfolio |
-| Ontek Horizon | Responsive business website |
-| OOP-CPP | Object-oriented programming |
-| Java | Java programming practice |
-| DSA-I-II | Data structures and algorithms |
-| Operating-System-CPP | Operating systems coursework |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Explore more: [My GitHub Repositories](https://github.com/MueidShahriar?tab=repositories)
+<h3 align="center">BAUET Blood Donation Community</h3>
+
+<div align="center">
+<a href="https://blood-donation-community.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/MueidShahriar/BAUET-BDC">
+<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+
+A community-based blood donation platform connecting donors with people in need.
+
+- Donor registration and discovery
+- Real-time donor management
+- Admin dashboard and analytics
+- AI-assisted support
+- English and Bangla interface
+
+**Stack:** JavaScript, Firebase, Node.js, Express, Chart.js
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">Smart Hall Management System</h3>
+
+<div align="center">
+<a href="https://smart-hall-ms.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/MueidShahriar/Smart-Hall-Management-System">
+<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+
+A web-based platform designed to simplify university hall administration.
+
+- Student and admin dashboards
+- Attendance management
+- Room allocation
+- Meal management
+- Complaint and notice management
+
+**Stack:** HTML, CSS, JavaScript, Firebase, Bootstrap
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">Hall Attendance Tracker</h3>
+
+<div align="center">
+<a href="https://github.com/MueidShahriar/Hall-Attendance-Tracker">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+
+A real-time Progressive Web Application for university hall attendance.
+
+- Real-time attendance tracking
+- Role-based administration
+- Location verification
+- Responsive interface
+- PWA functionality
+
+**Stack:** JavaScript, Firebase, HTML, CSS
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">Digital Image Processing Toolkit</h3>
+
+<div align="center">
+<a href="https://github.com/MueidShahriar/Digital-Image-Processing-Toolkit">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+
+A desktop application for fundamental digital image processing.
+
+- Image enhancement
+- Edge detection
+- Histogram visualization
+- Gamma transformation
+- Image resizing and filtering
+
+**Stack:** Python, OpenCV, NumPy, Pillow
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Connect With Me
+<h2 align="center">MORE PROJECTS</h2>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mueid16">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+| Repository | Description |
+|:---|:---|
+| [MyPortfolio](https://github.com/MueidShahriar/MyPortfolio) | Personal portfolio website |
+| [Ontek Horizon](https://github.com/MueidShahriar/Ontek-Horizon) | Business and corporate website |
+| [DSA-I-II](https://github.com/MueidShahriar/DSA-I-II) | Data Structures and Algorithms |
+| [OOP-CPP](https://github.com/MueidShahriar/OOP-CPP) | Object-Oriented Programming |
+| [Operating-System-CPP](https://github.com/MueidShahriar/Operating-System-CPP) | Operating Systems coursework |
+
+<a href="https://github.com/MueidShahriar?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.facebook.com/mueid005">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.codechef.com/users/mueid_16">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-<a href="https://codeforces.com/profile/mueid_shahriar">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
+
+</div>
+
+---
+
+<h2 align="center">GITHUB ACTIVITY</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/MueidShahriar?label=Followers&style=for-the-badge&color=2563eb" />
+<img src="https://img.shields.io/github/stars/MueidShahriar?label=Total%20Stars&style=for-the-badge&color=06b6d4" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MueidShahriar&bg_color=0d1117&color=58a6ff&line=2563eb&point=38bdf8&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+
+</div>
+
+---
+
+<h2 align="center">CONNECT WITH ME</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mueid16"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/mueid_16"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/mueid_shahriar"><img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 
 <br/><br/>
 
 **Let's connect, collaborate, and build something meaningful.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=120&section=footer" width="100%" />
 
 </div>
