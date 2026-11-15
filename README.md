@@ -203,21 +203,6 @@ A desktop application for fundamental digital image processing.
 
 ---
 
-<h2 align="center">GITHUB ACTIVITY</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/MueidShahriar?label=Followers&style=for-the-badge&color=2563eb" />
-<img src="https://img.shields.io/github/stars/MueidShahriar?label=Total%20Stars&style=for-the-badge&color=06b6d4" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MueidShahriar&bg_color=0d1117&color=58a6ff&line=2563eb&point=38bdf8&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
-
-</div>
-
----
-
 <h2 align="center">CONNECT WITH ME</h2>
 
 <div align="center">
